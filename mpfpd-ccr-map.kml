@@ -1,0 +1,2262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Menlo Park Fire Protection District Community Crisis Management Neighborhoods</name>
+    <description><![CDATA[Source: http://www.menlofirecert.com/neighborhoods<br>(Revision: September 14, 2019)<br><br>Areas:<br>• 1-19 Atherton<br>• 20-29 Menlo Park<br>• 30-39 East Palo Alto<br>• 40-49 Unincorporated SMC, Federal, & Others<br><br>On GitHub: https://github.com/Menlo-Community/mpfpd-ccr-map]]></description>
+    <Style id="poly-01579B-1200-76-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c9b5701</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-01579B-1200-76-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c9b5701</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-01579B-1200-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-01579B-1200-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-01579B-1200-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-558B2F-1200-76-normal">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c2f8b55</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-558B2F-1200-76-highlight">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c2f8b55</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-558B2F-1200-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-558B2F-1200-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-558B2F-1200-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-673AB7-1200-76-normal">
+      <LineStyle>
+        <color>ffb73a67</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4cb73a67</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-673AB7-1200-76-highlight">
+      <LineStyle>
+        <color>ffb73a67</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4cb73a67</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-673AB7-1200-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-673AB7-1200-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-673AB7-1200-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-A52714-1200-76-normal">
+      <LineStyle>
+        <color>ff1427a5</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c1427a5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-A52714-1200-76-highlight">
+      <LineStyle>
+        <color>ff1427a5</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c1427a5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-A52714-1200-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-A52714-1200-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-A52714-1200-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>MPFPD CCM Areas</name>
+      <Placemark>
+        <name>Area 1: Lindenwood </name>
+        <description><![CDATA[Area Number: 1<br>Area Group: Atherton<br>description: Fire Station: 1<br><br>FRS Radio Channel: 10<br><br>EAPs:<br>• 1B - 3 Irving Ave<br>• 1A - 227 Catalpa Drive<br><br>Emergency Cache:<br>• Holbrook Palmer Park<br>]]></description>
+        <styleUrl>#poly-A52714-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>1.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Atherton</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 1
+
+FRS Radio Channel: 10
+
+EAPs:
+• 1B - 3 Irving Ave
+• 1A - 227 Catalpa Drive
+
+Emergency Cache:
+• Holbrook Palmer Park
+</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.1867796,37.476768,0
+                -122.1882096,37.4742842,0
+                -122.1896395,37.4718003,0
+                -122.1916731,37.4685144,0
+                -122.1897312,37.4675308,0
+                -122.1873869,37.4663471,0
+                -122.1860225,37.468196,0
+                -122.1858542,37.4680991,0
+                -122.1842516,37.4704685,0
+                -122.182763,37.4724312,0
+                -122.1824464,37.4723759,0
+                -122.1821244,37.4729038,0
+                -122.1819903,37.4735275,0
+                -122.1817959,37.4740171,0
+                -122.1809765,37.4738787,0
+                -122.1801503,37.4752241,0
+                -122.1807673,37.4752369,0
+                -122.1807512,37.4758137,0
+                -122.1809819,37.4765139,0
+                -122.1863082,37.47669,0
+                -122.1867796,37.476768,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 4: Watkins / Ravenswood</name>
+        <description><![CDATA[Area Number: 4<br>Area Group: Atherton<br>description: Fire Station: 1, 5, 6<br><br>FRS Radio Channel: 11<br><br>EAPs:<br>EAPs NEEDED<br><br>Emergency Cache:<br>Holbrook Palmer Park<br>]]></description>
+        <styleUrl>#poly-A52714-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>4.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Atherton</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 1, 5, 6
+
+FRS Radio Channel: 11
+
+EAPs:
+EAPs NEEDED
+
+Emergency Cache:
+Holbrook Palmer Park
+</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.1897312,37.4675308,0
+                -122.1912508,37.4655414,0
+                -122.1863263,37.4631144,0
+                -122.1884935,37.460287,0
+                -122.183728,37.457933,0
+                -122.1808761,37.4614622,0
+                -122.1794062,37.4606958,0
+                -122.1797924,37.4601933,0
+                -122.176696,37.458673,0
+                -122.175446,37.460261,0
+                -122.1806847,37.4629821,0
+                -122.1816036,37.4634516,0
+                -122.1879824,37.4666664,0
+                -122.1897312,37.4675308,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 5: Atherton Fair Oaks / MP Villa / Holbrook Park</name>
+        <description><![CDATA[Area Number: 5<br>Area Group: Atherton<br>description: Fire Station: 5<br><br>FRS Radio Channel: 15<br><br>EAPs:<br>EAPs NEEDED<br><br>Emergency Cache:<br>Holbrook Palmer Park<br>]]></description>
+        <styleUrl>#poly-A52714-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>5.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Atherton</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 5
+
+FRS Radio Channel: 15
+
+EAPs:
+EAPs NEEDED
+
+Emergency Cache:
+Holbrook Palmer Park
+</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.1896395,37.4718174,0
+                -122.1968145,37.47455,0
+                -122.1979947,37.4726086,0
+                -122.1995182,37.4701222,0
+                -122.1991802,37.4700967,0
+                -122.199309,37.4695943,0
+                -122.1999741,37.4687258,0
+                -122.2001538,37.4685512,0
+                -122.2003563,37.468366,0
+                -122.2015566,37.4669375,0
+                -122.1934456,37.4618365,0
+                -122.1920336,37.4609619,0
+                -122.189254,37.464581,0
+                -122.1912508,37.4655584,0
+                -122.1897312,37.4675479,0
+                -122.1916731,37.4685315,0
+                -122.1896395,37.4718174,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 6: Lloyden Park / Atherton Station</name>
+        <description><![CDATA[Area Number: 6<br>Area Group: Atherton<br>description: Fire Station: 3<br><br>FRS Radio Channel: 6<br><br>EAPs:<br>6A - 32 Belleau Avenue<br>Additional EAPs NEEDED<br><br><br>Emergency Cache:<br>Holbrook Palmer Park]]></description>
+        <styleUrl>#poly-A52714-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>6.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Atherton</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 3
+
+FRS Radio Channel: 6
+
+EAPs:
+6A - 32 Belleau Avenue
+Additional EAPs NEEDED
+
+
+Emergency Cache:
+Holbrook Palmer Park</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.1934456,37.4618365,0
+                -122.2015566,37.4669375,0
+                -122.2035865,37.4682684,0
+                -122.2063116,37.465305,0
+                -122.205641,37.464892,0
+                -122.2014157,37.4627242,0
+                -122.1952072,37.4595567,0
+                -122.1934456,37.4618365,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 7: Stockbridge / North of Austin</name>
+        <description><![CDATA[Area Number: 7<br>Area Group: Atherton<br>description: Fire Station: 3<br><br>FRS Radio Channel: 7<br><br>EAPs:<br>7A - 98 Adam Way, easement<br>7B - 28 Almendral Ave, easement<br><br>Emergency Cache:<br>Holbrook Palmer Park<br>]]></description>
+        <styleUrl>#poly-A52714-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>7.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Atherton</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 3
+
+FRS Radio Channel: 7
+
+EAPs:
+7A - 98 Adam Way, easement
+7B - 28 Almendral Ave, easement
+
+Emergency Cache:
+Holbrook Palmer Park
+</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.2014157,37.4627242,0
+                -122.205641,37.464892,0
+                -122.2063116,37.465305,0
+                -122.207604,37.4661288,0
+                -122.2107633,37.4684003,0
+                -122.2124853,37.4697053,0
+                -122.2137808,37.4680682,0
+                -122.2136749,37.4679479,0
+                -122.214615,37.4667334,0
+                -122.2162081,37.4647684,0
+                -122.217041,37.4651303,0
+                -122.2181823,37.4637039,0
+                -122.2183379,37.463095,0
+                -122.2159024,37.461971,0
+                -122.2154947,37.4617495,0
+                -122.2149476,37.4615962,0
+                -122.2146793,37.4613067,0
+                -122.2143682,37.4611193,0
+                -122.2138103,37.4609831,0
+                -122.2134241,37.4602336,0
+                -122.2131558,37.4598249,0
+                -122.2127374,37.459629,0
+                -122.2112568,37.4588881,0
+                -122.2095402,37.4581812,0
+                -122.2071799,37.4569974,0
+                -122.2057126,37.4562602,0
+                -122.2038995,37.4587982,0
+                -122.203878,37.4596796,0
+                -122.2014157,37.4627242,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 8: Victoria Manor / Sacred Heart / Atherton Ave</name>
+        <description><![CDATA[Area Number: 8<br>Area Group: Atherton<br>description: Fire Station: 3, 6<br><br>FRS Radio Channel: 8<br><br>EAPs:<br>8A - 55 Victoria Dr, across street<br>8B - Spencer Ln/Isabella Ave, triangle<br>8C - 53/61 Atherton Ave, easement<br><br>Emergency Cache:<br>Station 4]]></description>
+        <styleUrl>#poly-A52714-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>8.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Atherton</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 3, 6
+
+FRS Radio Channel: 8
+
+EAPs:
+8A - 55 Victoria Dr, across street
+8B - Spencer Ln/Isabella Ave, triangle
+8C - 53/61 Atherton Ave, easement
+
+Emergency Cache:
+Station 4</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.2014157,37.4627242,0
+                -122.203878,37.4596796,0
+                -122.2038995,37.4587982,0
+                -122.2057126,37.4562602,0
+                -122.2070971,37.4545147,0
+                -122.2029772,37.451193,0
+                -122.2039428,37.4501028,0
+                -122.1958104,37.4460994,0
+                -122.1875921,37.4558603,0
+                -122.1952072,37.4595567,0
+                -122.2014157,37.4627242,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 9: Stockbridge / South of Austin</name>
+        <description><![CDATA[Area Number: 9<br>Area Group: Atherton<br>description: Fire Station: 3<br><br>FRS Radio Channel: 9<br><br>EAPs:<br> 9A - 134 Selby Lane, cul-de-sac<br>9B - 202 Austin Ave, corner of Almendral Dr.<br><br>Emergency Cache:<br>Station 4]]></description>
+        <styleUrl>#poly-A52714-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>9.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Atherton</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 3
+
+FRS Radio Channel: 9
+
+EAPs:
+ 9A - 134 Selby Lane, cul-de-sac
+9B - 202 Austin Ave, corner of Almendral Dr.
+
+Emergency Cache:
+Station 4</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.2057126,37.4562602,0
+                -122.2095402,37.4581812,0
+                -122.2112568,37.4588881,0
+                -122.2131558,37.4598249,0
+                -122.2134241,37.4602336,0
+                -122.2138103,37.4609831,0
+                -122.2143682,37.4611193,0
+                -122.2146793,37.4613067,0
+                -122.2149476,37.4615962,0
+                -122.2154947,37.4617495,0
+                -122.2159024,37.461971,0
+                -122.2183379,37.463095,0
+                -122.2190876,37.4608601,0
+                -122.2200284,37.4596618,0
+                -122.2208738,37.4586064,0
+                -122.2213724,37.458543,0
+                -122.2222786,37.4591524,0
+                -122.2230535,37.4584801,0
+                -122.2217886,37.4576414,0
+                -122.2221224,37.4572882,0
+                -122.2204648,37.4562662,0
+                -122.2205452,37.4561725,0
+                -122.2173641,37.4538602,0
+                -122.2172172,37.4536963,0
+                -122.2170209,37.4534727,0
+                -122.2103851,37.4501254,0
+                -122.2057126,37.4562602,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 10: Faxon</name>
+        <description><![CDATA[Area Number: 10<br>Area Group: Atherton<br>description: Fire Station: 3, 4, 6<br><br>FRS Radio Channel: 10<br><br>EAPs:<br>EAPs NEEDED<br><br>Emergency Cache:<br>Holbrook Palmer Park]]></description>
+        <styleUrl>#poly-A52714-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>10.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Atherton</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 3, 4, 6
+
+FRS Radio Channel: 10
+
+EAPs:
+EAPs NEEDED
+
+Emergency Cache:
+Holbrook Palmer Park</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.2118103,37.4465951,0
+                -122.2078407,37.4446956,0
+                -122.2077173,37.4458413,0
+                -122.2057164,37.4444316,0
+                -122.206859,37.4432007,0
+                -122.2007221,37.4401852,0
+                -122.1958104,37.4460994,0
+                -122.2039428,37.4501028,0
+                -122.2029772,37.451193,0
+                -122.2070971,37.4545147,0
+                -122.2103851,37.4501254,0
+                -122.2093655,37.4496664,0
+                -122.2118103,37.4465951,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 11: Alameda / Polhemus / Selby</name>
+        <description><![CDATA[Area Number: 11<br>Area Group: Atherton<br>description: Fire Station: 3, 4<br><br>FRS Radio Channel: 11<br><br>EAPs:<br> 11A - 98 Parker Avenue<br>Additional EAPs NEEDED <br><br>Emergency Cache:<br>Holbrook Palmer Park]]></description>
+        <styleUrl>#poly-A52714-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>11.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Atherton</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 3, 4
+
+FRS Radio Channel: 11
+
+EAPs:
+ 11A - 98 Parker Avenue
+Additional EAPs NEEDED 
+
+Emergency Cache:
+Holbrook Palmer Park</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.2172172,37.4536963,0
+                -122.224942,37.4439521,0
+                -122.2176482,37.4403051,0
+                -122.2174336,37.440007,0
+                -122.2171975,37.4398281,0
+                -122.2093655,37.4496664,0
+                -122.2103851,37.4501254,0
+                -122.2170209,37.4534727,0
+                -122.2172172,37.4536963,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 12: Las Lomitas</name>
+        <description><![CDATA[Area Number: 12<br>Area Group: Atherton<br>description: Fire Station: 4<br><br>FRS Radio Channel: 12<br><br>EAPs:<br>12A - Camino Al Lago/Linda Vista Ave, intersection easement <br><br>Emergency Cache:<br>Station 4<br>]]></description>
+        <styleUrl>#poly-A52714-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>12.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Atherton</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 4
+
+FRS Radio Channel: 12
+
+EAPs:
+12A - Camino Al Lago/Linda Vista Ave, intersection easement 
+
+Emergency Cache:
+Station 4
+</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.2118103,37.4465951,0
+                -122.2171975,37.4398281,0
+                -122.2166888,37.4393064,0
+                -122.2161631,37.4389571,0
+                -122.213185,37.4373779,0
+                -122.2121121,37.4368838,0
+                -122.2109963,37.4383491,0
+                -122.2101488,37.4379061,0
+                -122.2071661,37.4405554,0
+                -122.2050526,37.4392776,0
+                -122.2046556,37.439448,0
+                -122.204044,37.4390561,0
+                -122.2031354,37.4386987,0
+                -122.2028919,37.4390228,0
+                -122.2019973,37.4386998,0
+                -122.2007221,37.4401852,0
+                -122.206859,37.4432007,0
+                -122.2057164,37.4444316,0
+                -122.2077173,37.4458413,0
+                -122.2078407,37.4446956,0
+                -122.2118103,37.4465951,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 13: Ridgeview / Stockbridge South
+</name>
+        <description><![CDATA[Area Number: 13<br>Area Group: Atherton<br>description: Fire Station: 4<br><br>FRS Radio Channel: 13<br><br>EAPs:<br>EAPs NEEDED<br><br>Emergency Cache:<br>Station 4]]></description>
+        <styleUrl>#poly-A52714-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>13.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Atherton</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 4
+
+FRS Radio Channel: 13
+
+EAPs:
+EAPs NEEDED
+
+Emergency Cache:
+Station 4</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.2171975,37.4398281,0
+                -122.2174336,37.440007,0
+                -122.2176482,37.4403051,0
+                -122.224942,37.4439521,0
+                -122.2284315,37.4396088,0
+                -122.2292523,37.4395705,0
+                -122.2298477,37.4397366,0
+                -122.2308992,37.4402307,0
+                -122.2310816,37.4396003,0
+                -122.231323,37.4391658,0
+                -122.2313337,37.4386292,0
+                -122.231213,37.4378263,0
+                -122.2302179,37.437164,0
+                -122.2307162,37.4361329,0
+                -122.2277824,37.4359074,0
+                -122.2256742,37.4348553,0
+                -122.2254597,37.4335433,0
+                -122.2231047,37.432768,0
+                -122.2217421,37.4338628,0
+                -122.220916,37.4346465,0
+                -122.2197144,37.4346465,0
+                -122.2161631,37.4389571,0
+                -122.2166888,37.4393064,0
+                -122.2171975,37.4398281,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 14: Reservoir / Walsh Rd
+</name>
+        <description><![CDATA[Area Number: 14<br>Area Group: Atherton<br>description: Fire Station: 4<br><br>FRS Radio Channel: 14<br><br>EAPs:<br> 14 - Walsh Rd/ Reservoir Rd,<br>intersection easement<br><br>Emergency Cache:<br>Station 4]]></description>
+        <styleUrl>#poly-A52714-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>14.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Atherton</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 4
+
+FRS Radio Channel: 14
+
+EAPs:
+ 14 - Walsh Rd/ Reservoir Rd,
+intersection easement
+
+Emergency Cache:
+Station 4</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.213662,37.432721,0
+                -122.2133241,37.4346351,0
+                -122.2135172,37.4349247,0
+                -122.2121121,37.4368838,0
+                -122.213185,37.4373779,0
+                -122.2161631,37.4389571,0
+                -122.2197144,37.4346465,0
+                -122.220916,37.4346465,0
+                -122.2217421,37.4338628,0
+                -122.2231047,37.432768,0
+                -122.2254597,37.4335433,0
+                -122.2256742,37.4348553,0
+                -122.2277824,37.4359074,0
+                -122.2307162,37.4361329,0
+                -122.2313298,37.4354064,0
+                -122.2312031,37.435339,0
+                -122.2317097,37.4348464,0
+                -122.2319696,37.4349096,0
+                -122.2327649,37.4344187,0
+                -122.2333617,37.4338468,0
+                -122.2336889,37.4324112,0
+                -122.2320702,37.4310811,0
+                -122.2336005,37.4288117,0
+                -122.234802,37.4292952,0
+                -122.2349951,37.4290652,0
+                -122.2322324,37.4272207,0
+                -122.228987,37.4247455,0
+                -122.228452,37.424737,0
+                -122.225542,37.424732,0
+                -122.225211,37.424384,0
+                -122.224568,37.424117,0
+                -122.222731,37.426198,0
+                -122.220973,37.42794,0
+                -122.218963,37.428977,0
+                -122.2187625,37.4284773,0
+                -122.218021,37.42844,0
+                -122.217562,37.42797,0
+                -122.213662,37.432721,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 20: Seminary / Vintage Oaks  / Coleman Place</name>
+        <description><![CDATA[Area Number: 20<br>Area Group: Menlo Park<br>description: Fire Station: 1<br><br>FRS Radio Channel: 6<br><br>EAPs:<br>Seminary Oaks Park<br><br>Emergency Cache:<br>Station 1]]></description>
+        <styleUrl>#poly-673AB7-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>20.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Menlo Park</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 1
+
+FRS Radio Channel: 6
+
+EAPs:
+Seminary Oaks Park
+
+Emergency Cache:
+Station 1</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.1640814,37.4545921,0
+                -122.1611064,37.4602259,0
+                -122.1600003,37.4613739,0
+                -122.1591984,37.4625035,0
+                -122.1645121,37.4642121,0
+                -122.165074,37.463067,0
+                -122.167288,37.463615,0
+                -122.170601,37.459949,0
+                -122.173246,37.461063,0
+                -122.174032,37.459533,0
+                -122.1710873,37.458135,0
+                -122.1640814,37.4545921,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 21: Linfield Oaks / Burgess Park
+</name>
+        <description><![CDATA[Area Number: 21<br>Area Group: Menlo Park<br>description: Fire Station: 1<br><br>FRS Radio Channel: 11<br><br>EAPs:<br>Burgess Park Tennis Courts, <br>across from 425 Burgess Dr. <br><br>Emergency Cache:<br>Station 1]]></description>
+        <styleUrl>#poly-673AB7-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>21.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Menlo Park</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 1
+
+FRS Radio Channel: 11
+
+EAPs:
+Burgess Park Tennis Courts, 
+across from 425 Burgess Dr. 
+
+Emergency Cache:
+Station 1</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.1716612,37.4468597,0
+                -122.1712646,37.4470459,0
+                -122.1707766,37.4469431,0
+                -122.169559,37.447641,0
+                -122.169137,37.447083,0
+                -122.167857,37.448276,0
+                -122.167463,37.449249,0
+                -122.167926,37.449648,0
+                -122.167369,37.451036,0
+                -122.166778,37.45104,0
+                -122.166073,37.450504,0
+                -122.165606,37.45112,0
+                -122.165086,37.453079,0
+                -122.164662,37.453014,0
+                -122.16423,37.452294,0
+                -122.163768,37.452447,0
+                -122.163787,37.453245,0
+                -122.162756,37.453101,0
+                -122.162875,37.453814,0
+                -122.162472,37.4538766,0
+                -122.1629441,37.4540214,0
+                -122.1640814,37.4545921,0
+                -122.166667,37.4559207,0
+                -122.1710873,37.458135,0
+                -122.174032,37.459533,0
+                -122.175446,37.460261,0
+                -122.176696,37.458673,0
+                -122.1805793,37.4537442,0
+                -122.1811868,37.4534471,0
+                -122.1817281,37.4530338,0
+                -122.1779801,37.4509878,0
+                -122.1723547,37.4473575,0
+                -122.1716612,37.4468597,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 22: Felton Gables / Garwood</name>
+        <description><![CDATA[Area Number: 22<br>Area Group: Menlo Park<br>description: Fire Station: 6<br><br>FRS Radio Channel: 11<br><br>EAPs:<br>Burgess Park Tennis Courts, <br>across from 425 Burgess Dr. <br><br>Emergency Cache:<br>Holbrook Palmer Park	]]></description>
+        <styleUrl>#poly-673AB7-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>22.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Menlo Park</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 6
+
+FRS Radio Channel: 11
+
+EAPs:
+Burgess Park Tennis Courts, 
+across from 425 Burgess Dr. 
+
+Emergency Cache:
+Holbrook Palmer Park	</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.176696,37.458673,0
+                -122.1797924,37.4601933,0
+                -122.1794062,37.4606958,0
+                -122.1808761,37.4614622,0
+                -122.183728,37.457933,0
+                -122.1884935,37.460287,0
+                -122.1863263,37.4631144,0
+                -122.189254,37.464564,0
+                -122.1920336,37.4609619,0
+                -122.1934456,37.4618365,0
+                -122.1952072,37.4595567,0
+                -122.1875921,37.4558603,0
+                -122.1817281,37.4530338,0
+                -122.1811868,37.4534471,0
+                -122.1805793,37.4537442,0
+                -122.176696,37.458673,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 23: Downtown Menlo Park / Allied Arts</name>
+        <description><![CDATA[Area Number: 23<br>Area Group: Menlo Park<br>description: Fire Station: 6<br><br>FRS Radio Channel: 3<br><br>EAPs:<br>EAPs NEEDED<br><br>Emergency Cache:<br>[NOT AVAILABLE]<br>]]></description>
+        <styleUrl>#poly-673AB7-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>23.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Menlo Park</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 6
+
+FRS Radio Channel: 3
+
+EAPs:
+EAPs NEEDED
+
+Emergency Cache:
+[NOT AVAILABLE]
+</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.181638,37.4397322,0
+                -122.1811273,37.4393967,0
+                -122.1803542,37.4392543,0
+                -122.179667,37.439606,0
+                -122.1793067,37.4403283,0
+                -122.1797597,37.4408568,0
+                -122.1797691,37.4411656,0
+                -122.1779331,37.4409803,0
+                -122.176899,37.4414377,0
+                -122.1764355,37.4418282,0
+                -122.175897,37.4416991,0
+                -122.1756798,37.4417192,0
+                -122.1755054,37.4427955,0
+                -122.1750716,37.4430807,0
+                -122.174831,37.4434,0
+                -122.1746686,37.4442011,0
+                -122.1743889,37.4446658,0
+                -122.17282,37.4457154,0
+                -122.1725088,37.4461555,0
+                -122.172085,37.446235,0
+                -122.1716612,37.4468597,0
+                -122.1723547,37.4473575,0
+                -122.1779801,37.4509878,0
+                -122.1817281,37.4530338,0
+                -122.1875921,37.4558603,0
+                -122.1950066,37.4470188,0
+                -122.1904146,37.4445529,0
+                -122.1903503,37.4430537,0
+                -122.186445,37.4409582,0
+                -122.1846533,37.4414778,0
+                -122.181638,37.4397322,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 24: Pacific Shores</name>
+        <description><![CDATA[Area Number: 24<br>Area Group: Menlo Park<br>description: Fire Station: 6<br><br>FRS Radio Channel: [NOT AVAILABLE]<br><br>EAPs:<br>EAPs NEEDED<br><br>Emergency Cache:<br>Station 77]]></description>
+        <styleUrl>#poly-673AB7-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>24.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Menlo Park</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 6
+
+FRS Radio Channel: [NOT AVAILABLE]
+
+EAPs:
+EAPs NEEDED
+
+Emergency Cache:
+Station 77</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.1249754,37.4874382,0
+                -122.1268533,37.4919781,0
+                -122.1271537,37.4959959,0
+                -122.1282481,37.4994008,0
+                -122.1306084,37.5036906,0
+                -122.1319817,37.5050183,0
+                -122.1327756,37.5050013,0
+                -122.1362947,37.5073674,0
+                -122.1401356,37.5074014,0
+                -122.1473883,37.5045587,0
+                -122.1484612,37.5025841,0
+                -122.1794675,37.5030097,0
+                -122.178915,37.4867572,0
+                -122.1795453,37.4873671,0
+                -122.1801072,37.487323,0
+                -122.1827828,37.4882367,0
+                -122.189386,37.4883367,0
+                -122.1898688,37.4858508,0
+                -122.1896027,37.4858025,0
+                -122.189326,37.486563,0
+                -122.1856738,37.4860381,0
+                -122.1836783,37.4855444,0
+                -122.182144,37.4851442,0
+                -122.1828163,37.4839969,0
+                -122.1807349,37.4833498,0
+                -122.1783102,37.4823622,0
+                -122.1725745,37.47902,0
+                -122.1689267,37.4792754,0
+                -122.1655844,37.4868253,0
+                -122.1438165,37.4874321,0
+                -122.1417082,37.4857295,0
+                -122.1401352,37.482262,0
+                -122.1383006,37.4825259,0
+                -122.1338374,37.4865613,0
+                -122.1274644,37.4859739,0
+                -122.1249754,37.4874382,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 25: Flood Triangle / Suburban Park / Lorelei Manor</name>
+        <description><![CDATA[Area Number: 25<br>Area Group: Menlo Park<br>description: Fire Station: 1, 5<br><br>FRS Radio Channel: 3<br><br>EAPs:<br>EAPs NEEDED<br><br>Emergency Cache:<br>Suburban Park Connex Box	]]></description>
+        <styleUrl>#poly-673AB7-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>25.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Menlo Park</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 1, 5
+
+FRS Radio Channel: 3
+
+EAPs:
+EAPs NEEDED
+
+Emergency Cache:
+Suburban Park Connex Box	</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.156368,37.469426,0
+                -122.1725745,37.47902,0
+                -122.1783102,37.4823622,0
+                -122.1807349,37.4833498,0
+                -122.1828163,37.4839969,0
+                -122.183758,37.482343,0
+                -122.1860614,37.4780836,0
+                -122.1867796,37.476768,0
+                -122.1863082,37.47669,0
+                -122.1806976,37.4765054,0
+                -122.1779075,37.4761846,0
+                -122.176833,37.4759543,0
+                -122.175684,37.4756049,0
+                -122.1740417,37.4750031,0
+                -122.169534,37.472628,0
+                -122.167869,37.47162,0
+                -122.161657,37.470032,0
+                -122.1593558,37.4694558,0
+                -122.1571886,37.4694898,0
+                -122.156368,37.469426,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 26: Stanford Park / Central Menlo / Stanford Oaks / The Oaks
+</name>
+        <description><![CDATA[Area Number: 26<br>Area Group: Menlo Park<br>description: Fire Station: 4, 6<br><br>FRS Radio Channel: 6<br><br>EAPs:<br>EAPs NEEDED<br><br>Emergency Cache:<br>Station 4<br>]]></description>
+        <styleUrl>#poly-673AB7-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>26.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Menlo Park</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 4, 6
+
+FRS Radio Channel: 6
+
+EAPs:
+EAPs NEEDED
+
+Emergency Cache:
+Station 4
+</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.2019973,37.4386998,0
+                -122.198635,37.436676,0
+                -122.199799,37.435542,0
+                -122.198628,37.434909,0
+                -122.199886,37.433394,0
+                -122.1902142,37.4284584,0
+                -122.1899121,37.4287576,0
+                -122.190555,37.4310371,0
+                -122.1904254,37.4315446,0
+                -122.188248,37.432197,0
+                -122.1879419,37.4324502,0
+                -122.1879363,37.4331975,0
+                -122.1875573,37.4334932,0
+                -122.1867062,37.433499,0
+                -122.1860696,37.4337262,0
+                -122.1852936,37.433732,0
+                -122.1846999,37.4339422,0
+                -122.183837,37.435094,0
+                -122.1834148,37.4358289,0
+                -122.1834478,37.4369191,0
+                -122.1827126,37.4377209,0
+                -122.1826203,37.4383861,0
+                -122.1825047,37.4390933,0
+                -122.1820673,37.4396045,0
+                -122.181638,37.4397322,0
+                -122.1846533,37.4414778,0
+                -122.186445,37.4409582,0
+                -122.1903503,37.4430537,0
+                -122.1904146,37.4445529,0
+                -122.1950066,37.4470188,0
+                -122.1958104,37.4460994,0
+                -122.2007221,37.4401852,0
+                -122.2019973,37.4386998,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 27: University Heights / Sharon Heights / Stanford Hills
+</name>
+        <description><![CDATA[Area Number: 27<br>Area Group: Menlo Park<br>description: Fire Station: 4<br><br>FRS Radio Channel: 11<br><br>EAPs:<br>EAPs NEEDED<br><br>Emergency Cache:<br>Station 4]]></description>
+        <styleUrl>#poly-673AB7-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>27.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Menlo Park</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 4
+
+FRS Radio Channel: 11
+
+EAPs:
+EAPs NEEDED
+
+Emergency Cache:
+Station 4</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.1923922,37.4258257,0
+                -122.1933845,37.4265201,0
+                -122.1941711,37.4271675,0
+                -122.1946503,37.4275304,0
+                -122.1958269,37.4287793,0
+                -122.1961675,37.4290041,0
+                -122.1995156,37.4306784,0
+                -122.200616,37.429369,0
+                -122.201885,37.430044,0
+                -122.2015264,37.4305107,0
+                -122.2022643,37.4308842,0
+                -122.2030042,37.4299955,0
+                -122.2034771,37.4302448,0
+                -122.204663,37.430097,0
+                -122.205235,37.42984,0
+                -122.2060988,37.4303767,0
+                -122.2077718,37.4305959,0
+                -122.2083177,37.4309407,0
+                -122.2071993,37.4322096,0
+                -122.2076823,37.4324812,0
+                -122.207961,37.432163,0
+                -122.208164,37.432144,0
+                -122.212048,37.432989,0
+                -122.213662,37.432721,0
+                -122.217562,37.42797,0
+                -122.218021,37.42844,0
+                -122.2187625,37.4284773,0
+                -122.218963,37.428977,0
+                -122.220973,37.42794,0
+                -122.224568,37.424117,0
+                -122.225211,37.424384,0
+                -122.225542,37.424732,0
+                -122.228452,37.424737,0
+                -122.2277143,37.4240353,0
+                -122.2266548,37.423521,0
+                -122.2253271,37.4223208,0
+                -122.2244393,37.4218875,0
+                -122.2244836,37.4216478,0
+                -122.2232015,37.4211696,0
+                -122.2228635,37.4206744,0
+                -122.2218121,37.4203144,0
+                -122.2153212,37.4187678,0
+                -122.2131381,37.4181391,0
+                -122.2114807,37.4170076,0
+                -122.209028,37.417323,0
+                -122.207948,37.420544,0
+                -122.202373,37.421348,0
+                -122.201716,37.421299,0
+                -122.198571,37.421972,0
+                -122.197924,37.420581,0
+                -122.196929,37.420888,0
+                -122.19693,37.421407,0
+                -122.193574,37.420623,0
+                -122.1911813,37.4195261,0
+                -122.1910311,37.4199778,0
+                -122.1911062,37.4208128,0
+                -122.1920396,37.4238291,0
+                -122.191688,37.424537,0
+                -122.1917392,37.4251242,0
+                -122.1923922,37.4258257,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 28: The Willows</name>
+        <description><![CDATA[Area Number: 28<br>Area Group: Menlo Park<br>description: Fire Station: 1<br><br>FRS Radio Channel: 8<br><br>EAPs:<br>https://docs.google.com/a/menlofirecert.com/viewer?a=v&pid=sites&srcid=bWVubG9maXJlY2VydC5jb218Y2VydHxneDo3Y2JmMTlmOWQ5OTY5NmY<br><br>Emergency Cache:<br>Station 1]]></description>
+        <styleUrl>#poly-673AB7-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>28.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Menlo Park</value>
+          </Data>
+          <Data name="description">
+            <value><![CDATA[Fire Station: 1
+
+FRS Radio Channel: 8
+
+EAPs:
+https://docs.google.com/a/menlofirecert.com/viewer?a=v&pid=sites&srcid=bWVubG9maXJlY2VydC5jb218Y2VydHxneDo3Y2JmMTlmOWQ5OTY5NmY
+
+Emergency Cache:
+Station 1]]></value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.1552574,37.4687575,0
+                -122.155708,37.4672588,0
+                -122.1569096,37.4660496,0
+                -122.1574246,37.4651299,0
+                -122.1577894,37.4638866,0
+                -122.1591984,37.4625035,0
+                -122.1600003,37.4613739,0
+                -122.1611064,37.4602259,0
+                -122.1640814,37.4545921,0
+                -122.1629441,37.4540214,0
+                -122.1626575,37.4538967,0
+                -122.162472,37.4538766,0
+                -122.162267,37.45392,0
+                -122.161553,37.453853,0
+                -122.1610662,37.4538287,0
+                -122.1606867,37.4540259,0
+                -122.160598,37.454665,0
+                -122.159088,37.454757,0
+                -122.158831,37.453688,0
+                -122.158499,37.45357,0
+                -122.157927,37.453646,0
+                -122.157521,37.453502,0
+                -122.157076,37.453518,0
+                -122.1570158,37.4541052,0
+                -122.1564902,37.4542078,0
+                -122.155623,37.4541146,0
+                -122.155403,37.454719,0
+                -122.156004,37.455389,0
+                -122.15549,37.455883,0
+                -122.154512,37.4557937,0
+                -122.152759,37.457325,0
+                -122.1527429,37.4576605,0
+                -122.1522916,37.4578372,0
+                -122.1519371,37.4572386,0
+                -122.1515504,37.4572105,0
+                -122.1511712,37.4573459,0
+                -122.149327,37.457177,0
+                -122.148754,37.457219,0
+                -122.148144,37.457037,0
+                -122.147741,37.456602,0
+                -122.146985,37.456616,0
+                -122.145984,37.456926,0
+                -122.145918,37.457695,0
+                -122.145214,37.45814,0
+                -122.144552,37.460792,0
+                -122.150012,37.461748,0
+                -122.149898,37.462261,0
+                -122.151156,37.46257,0
+                -122.150569,37.465983,0
+                -122.1552574,37.4687575,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 29: Belle Haven</name>
+        <description><![CDATA[Area Number: 29<br>Area Group: Menlo Park<br>description: Fire Station: 4<br><br>FRS Radio Channel: 11<br><br>EAPs:<br>EAPs NEEDED<br><br>Emergency Cache:<br>Station 4<br>]]></description>
+        <styleUrl>#poly-673AB7-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>29.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Menlo Park</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 4
+
+FRS Radio Channel: 11
+
+EAPs:
+EAPs NEEDED
+
+Emergency Cache:
+Station 4
+</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.1401352,37.482262,0
+                -122.1417082,37.4857295,0
+                -122.1438165,37.4874321,0
+                -122.1655844,37.4868253,0
+                -122.1671698,37.483161,0
+                -122.1689267,37.4792754,0
+                -122.1725745,37.47902,0
+                -122.156368,37.469426,0
+                -122.1552574,37.4687575,0
+                -122.1550483,37.4698692,0
+                -122.1550697,37.4717084,0
+                -122.153736,37.474491,0
+                -122.146687,37.473511,0
+                -122.146228,37.475503,0
+                -122.145809,37.475599,0
+                -122.13974,37.47587,0
+                -122.139787,37.480596,0
+                -122.1401352,37.482262,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 31: Woodland Bayshore</name>
+        <description><![CDATA[Area Number: 31<br>Area Group: East Palo Alto<br>description: Fire Station: 1<br><br>FRS Radio Channel: 11<br><br>EAPs:<br>Newell & Bayshore, vacant lot<br><br>Emergency Cache:<br>Station 1]]></description>
+        <styleUrl>#poly-01579B-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>31.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>East Palo Alto</value>
+          </Data>
+          <Data name="description">
+            <value><![CDATA[Fire Station: 1
+
+FRS Radio Channel: 11
+
+EAPs:
+Newell & Bayshore, vacant lot
+
+Emergency Cache:
+Station 1]]></value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.145214,37.45814,0
+                -122.144279,37.4583595,0
+                -122.1437104,37.4580018,0
+                -122.1428413,37.4581295,0
+                -122.1413071,37.4575845,0
+                -122.1409852,37.4572523,0
+                -122.1406741,37.4564688,0
+                -122.1401162,37.4562133,0
+                -122.1399553,37.4554298,0
+                -122.1392097,37.4552339,0
+                -122.1386679,37.454774,0
+                -122.1375252,37.4546249,0
+                -122.1366615,37.4543055,0
+                -122.1362968,37.4540841,0
+                -122.135696,37.4539904,0
+                -122.1341188,37.4543141,0
+                -122.1333893,37.4543353,0
+                -122.1328099,37.454033,0
+                -122.1322681,37.454033,0
+                -122.1317611,37.4537519,0
+                -122.1315224,37.4533516,0
+                -122.1307553,37.4532835,0
+                -122.1301599,37.4532239,0
+                -122.1293874,37.4526958,0
+                -122.1291514,37.4522529,0
+                -122.1287222,37.4519207,0
+                -122.1282394,37.4518526,0
+                -122.127939,37.4521337,0
+                -122.128041,37.4525637,0
+                -122.1279497,37.4528747,0
+                -122.1298593,37.4539734,0
+                -122.1347303,37.4568946,0
+                -122.1409423,37.4604886,0
+                -122.150569,37.465983,0
+                -122.151156,37.46257,0
+                -122.149898,37.462261,0
+                -122.150012,37.461748,0
+                -122.144552,37.460792,0
+                -122.145214,37.45814,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 32: Weeks Gateway 101 / Palo Mobile Estates</name>
+        <description><![CDATA[Area Number: 32<br>Area Group: East Palo Alto<br>description: Fire Station: 2<br><br>FRS Radio Channel: [NOT AVAILABLE]<br><br>EAPs:<br>835 Runnymede St, easement<br>2031 Pulgas Ave, easement<br><br>Emergency Cache:<br>Station 2]]></description>
+        <styleUrl>#poly-01579B-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>32.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>East Palo Alto</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 2
+
+FRS Radio Channel: [NOT AVAILABLE]
+
+EAPs:
+835 Runnymede St, easement
+2031 Pulgas Ave, easement
+
+Emergency Cache:
+Station 2</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.1318606,37.4729022,0
+                -122.1344998,37.4718804,0
+                -122.1350899,37.4717527,0
+                -122.1370748,37.4717271,0
+                -122.1379545,37.4717527,0
+                -122.139478,37.4717016,0
+                -122.1398643,37.4708927,0
+                -122.1407333,37.469692,0
+                -122.1413663,37.4686532,0
+                -122.1416023,37.4656217,0
+                -122.1417955,37.4626624,0
+                -122.1409423,37.4604886,0
+                -122.1298593,37.4539734,0
+                -122.1303371,37.4702285,0
+                -122.1318606,37.4729022,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 33: Pulgas Gardens
+</name>
+        <description><![CDATA[Area Number: 33<br>Area Group: East Palo Alto<br>description: Fire Station: 2<br><br>FRS Radio Channel: [NOT AVAILABLE]<br><br>EAPs:<br>EAPs NEEDED<br><br>Emergency Cache:<br>Station 2<br>]]></description>
+        <styleUrl>#poly-01579B-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>33.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>East Palo Alto</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 2
+
+FRS Radio Channel: [NOT AVAILABLE]
+
+EAPs:
+EAPs NEEDED
+
+Emergency Cache:
+Station 2
+</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.1279712,37.4528492,0
+                -122.1275262,37.4532857,0
+                -122.1269897,37.4536051,0
+                -122.1261528,37.4536051,0
+                -122.125434,37.4531196,0
+                -122.1244255,37.4527108,0
+                -122.1224085,37.4533922,0
+                -122.1218613,37.454031,0
+                -122.1218077,37.4547549,0
+                -122.1225909,37.4556406,0
+                -122.122945,37.456586,0
+                -122.1227625,37.4575483,0
+                -122.1239642,37.4609634,0
+                -122.1235994,37.4614531,0
+                -122.1192649,37.4640398,0
+                -122.1178486,37.4651969,0
+                -122.1156816,37.4656472,0
+                -122.1187178,37.4691555,0
+                -122.121121,37.4701603,0
+                -122.12326,37.4739209,0
+                -122.1227384,37.4751271,0
+                -122.1263674,37.4748862,0
+                -122.1318821,37.4728767,0
+                -122.1303586,37.470203,0
+                -122.1298808,37.4539479,0
+                -122.1279712,37.4528492,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 34: University Village / Kavanaugh</name>
+        <description><![CDATA[Area Number: 34<br>Area Group: East Palo Alto<br>description: Fire Station: 2<br><br>FRS Radio Channel: [NOT AVAILABLE]<br><br>EAPs:<br> 1425 Bay Rd, easement<br>Jack Farrell Park, easement<br><br>Emergency Cache:<br>Station 2<br>]]></description>
+        <styleUrl>#poly-01579B-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>34.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>East Palo Alto</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 2
+
+FRS Radio Channel: [NOT AVAILABLE]
+
+EAPs:
+ 1425 Bay Rd, easement
+Jack Farrell Park, easement
+
+Emergency Cache:
+Station 2
+</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.1263459,37.4749117,0
+                -122.1227169,37.4751271,0
+                -122.1202064,37.4767534,0
+                -122.1211237,37.4775537,0
+                -122.122792,37.4771706,0
+                -122.12416,37.4763277,0
+                -122.1250826,37.4820066,0
+                -122.1239776,37.4842542,0
+                -122.1240098,37.4856845,0
+                -122.1249754,37.4874382,0
+                -122.1274644,37.4859739,0
+                -122.1338374,37.4865613,0
+                -122.1383006,37.4825259,0
+                -122.1401352,37.482262,0
+                -122.139749,37.4804911,0
+                -122.1396202,37.4758764,0
+                -122.145809,37.475599,0
+                -122.146228,37.475503,0
+                -122.146687,37.473511,0
+                -122.147277,37.473593,0
+                -122.1478063,37.4706866,0
+                -122.139478,37.4717016,0
+                -122.1379545,37.4717527,0
+                -122.1370748,37.4717271,0
+                -122.1350899,37.4717527,0
+                -122.1344998,37.4718804,0
+                -122.1318606,37.4729022,0
+                -122.1263459,37.4749117,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 35: Palo Alto Park / Newbridge
+</name>
+        <description><![CDATA[Area Number: 35<br>Area Group: East Palo Alto<br>description: Fire Station: 2<br><br>FRS Radio Channel: [NOT AVAILABLE]<br><br>EAPs:<br> 2190 Addison St, easement<br>Bell Street Park, University easement<br><br>Emergency Cache:<br>Station 2<br>]]></description>
+        <styleUrl>#poly-01579B-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>35.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>East Palo Alto</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 2
+
+FRS Radio Channel: [NOT AVAILABLE]
+
+EAPs:
+ 2190 Addison St, easement
+Bell Street Park, University easement
+
+Emergency Cache:
+Station 2
+</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.139478,37.4717016,0
+                -122.1478063,37.4706866,0
+                -122.147184,37.4735817,0
+                -122.153736,37.474491,0
+                -122.1550697,37.4717084,0
+                -122.1550483,37.4698692,0
+                -122.1552574,37.4687575,0
+                -122.150569,37.465983,0
+                -122.1409423,37.4604886,0
+                -122.1417955,37.4626624,0
+                -122.1413663,37.4686532,0
+                -122.1407333,37.469692,0
+                -122.1398643,37.4708927,0
+                -122.139478,37.4717016,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 40: Unincorporated / Menlo Oaks District</name>
+        <description><![CDATA[Area Number: 40<br>Area Group: Unincorporated SMC, Federal, & Others<br>description: Fire Station: 1<br><br>FRS Radio Channel: 10<br><br>EAPs:<br>500 Menlo Oaks Dr Easement<br><br>Emergency Cache:<br>Station 1<br>]]></description>
+        <styleUrl>#poly-558B2F-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>40.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value><![CDATA[Unincorporated SMC, Federal, & Others]]></value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 1
+
+FRS Radio Channel: 10
+
+EAPs:
+500 Menlo Oaks Dr Easement
+
+Emergency Cache:
+Station 1
+</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.1645121,37.4642121,0
+                -122.1615338,37.4701029,0
+                -122.1678795,37.4717038,0
+                -122.173246,37.461063,0
+                -122.170601,37.459949,0
+                -122.1672451,37.4636916,0
+                -122.1651186,37.4630136,0
+                -122.1645121,37.4642121,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 41: Unincorporated / West Menlo Park</name>
+        <description><![CDATA[Area Number: 41<br>Area Group: Unincorporated SMC, Federal, & Others<br>description: Fire Station: 4<br><br>FRS Radio Channel: [NOT AVAILABLE]<br><br>EAPs:<br>EAPs NEEDED<br><br>Emergency Cache:<br>Station 4]]></description>
+        <styleUrl>#poly-558B2F-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>41.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value><![CDATA[Unincorporated SMC, Federal, & Others]]></value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 4
+
+FRS Radio Channel: [NOT AVAILABLE]
+
+EAPs:
+EAPs NEEDED
+
+Emergency Cache:
+Station 4</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.1902142,37.4284584,0
+                -122.199886,37.433394,0
+                -122.198628,37.434909,0
+                -122.199799,37.435542,0
+                -122.198635,37.436676,0
+                -122.2019973,37.4386998,0
+                -122.2028919,37.4390228,0
+                -122.2031354,37.4386987,0
+                -122.204044,37.4390561,0
+                -122.2046556,37.439448,0
+                -122.2050526,37.4392776,0
+                -122.2071661,37.4405554,0
+                -122.2101488,37.4379061,0
+                -122.2109963,37.4383491,0
+                -122.2121121,37.4368838,0
+                -122.2135172,37.4349247,0
+                -122.2133241,37.4346351,0
+                -122.213662,37.432721,0
+                -122.212048,37.432989,0
+                -122.20911,37.432363,0
+                -122.208164,37.432144,0
+                -122.207961,37.432163,0
+                -122.2076823,37.4324812,0
+                -122.2071993,37.4322096,0
+                -122.2083177,37.4309407,0
+                -122.2077718,37.4305959,0
+                -122.2060988,37.4303767,0
+                -122.205235,37.42984,0
+                -122.204663,37.430097,0
+                -122.2034771,37.4302448,0
+                -122.2030042,37.4299955,0
+                -122.2022643,37.4308842,0
+                -122.2015264,37.4305107,0
+                -122.201885,37.430044,0
+                -122.200616,37.429369,0
+                -122.1995156,37.4306784,0
+                -122.1961675,37.4290041,0
+                -122.1958269,37.4287793,0
+                -122.1946503,37.4275304,0
+                -122.1941711,37.4271675,0
+                -122.1933845,37.4265201,0
+                -122.1923922,37.4258257,0
+                -122.1917458,37.4262581,0
+                -122.1912925,37.4266905,0
+                -122.1902142,37.4284584,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 42: Stanford Weekend Acres</name>
+        <description><![CDATA[Area Number: 42<br>Area Group: Unincorporated SMC, Federal, & Others<br>description: Fire Station: 4<br><br>FRS Radio Channel: [NOT AVAILABLE]<br><br>EAPs:<br>EAPs NEEDED<br><br>Emergency Cache:<br>Station 4]]></description>
+        <styleUrl>#poly-558B2F-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>42.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value><![CDATA[Unincorporated SMC, Federal, & Others]]></value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 4
+
+FRS Radio Channel: [NOT AVAILABLE]
+
+EAPs:
+EAPs NEEDED
+
+Emergency Cache:
+Station 4</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.191701,37.424561,0
+                -122.1920396,37.4238291,0
+                -122.1911062,37.4208128,0
+                -122.1910311,37.4199778,0
+                -122.1911813,37.4195261,0
+                -122.1913533,37.4188957,0
+                -122.1914176,37.4184526,0
+                -122.1912996,37.4179243,0
+                -122.1940355,37.4160496,0
+                -122.1941374,37.4147118,0
+                -122.1957252,37.4147288,0
+                -122.1961329,37.4135017,0
+                -122.194647,37.4138425,0
+                -122.193617,37.4141493,0
+                -122.1934078,37.4142878,0
+                -122.1931718,37.4140534,0
+                -122.1930109,37.4141387,0
+                -122.1927319,37.4136828,0
+                -122.1917556,37.4141387,0
+                -122.1909831,37.4140194,0
+                -122.1877537,37.4147224,0
+                -122.1875767,37.4148971,0
+                -122.1875123,37.415174,0
+                -122.1872066,37.4157748,0
+                -122.1871046,37.4161838,0
+                -122.1871315,37.4164522,0
+                -122.187448,37.4168953,0
+                -122.1884082,37.4174961,0
+                -122.1888749,37.4175259,0
+                -122.1895508,37.4177389,0
+                -122.1897922,37.4182374,0
+                -122.189642,37.4185016,0
+                -122.1894542,37.4185356,0
+                -122.1886871,37.4186464,0
+                -122.1874211,37.4194389,0
+                -122.1870027,37.4199544,0
+                -122.1870188,37.4202569,0
+                -122.1872441,37.4210408,0
+                -122.1877376,37.4214477,0
+                -122.1876411,37.4216095,0
+                -122.1875767,37.421993,0
+                -122.1880917,37.4227769,0
+                -122.1889071,37.42345,0
+                -122.1895723,37.4235863,0
+                -122.1901302,37.4238249,0
+                -122.1903018,37.4241061,0
+                -122.1905379,37.4243617,0
+                -122.191701,37.424561,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 43: SLAC</name>
+        <description><![CDATA[Area Number: 43<br>Area Group: Unincorporated SMC, Federal, & Others<br>description: Fire Station: 4<br><br>FRS Radio Channel: [NOT AVAILABLE]<br><br>EAPs:<br>[NOT AVAILABLE]<br><br>Emergency Cache:<br>[NOT AVAILABLE]]]></description>
+        <styleUrl>#poly-558B2F-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>43.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value><![CDATA[Unincorporated SMC, Federal, & Others]]></value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 4
+
+FRS Radio Channel: [NOT AVAILABLE]
+
+EAPs:
+[NOT AVAILABLE]
+
+Emergency Cache:
+[NOT AVAILABLE]</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.1957252,37.4147288,0
+                -122.1941374,37.4147118,0
+                -122.1940355,37.4160496,0
+                -122.1912996,37.4179243,0
+                -122.1914176,37.4184526,0
+                -122.1913725,37.4189494,0
+                -122.1911813,37.4195261,0
+                -122.193574,37.420623,0
+                -122.19693,37.421407,0
+                -122.196929,37.420888,0
+                -122.197924,37.420581,0
+                -122.1986037,37.4219146,0
+                -122.201746,37.4213,0
+                -122.202373,37.421348,0
+                -122.2079271,37.420841,0
+                -122.209028,37.417323,0
+                -122.2114807,37.4170076,0
+                -122.210341,37.4158307,0
+                -122.2090643,37.414595,0
+                -122.2048855,37.4150893,0
+                -122.2023427,37.4142712,0
+                -122.2009694,37.4128311,0
+                -122.1993923,37.4134191,0
+                -122.1977615,37.4139644,0
+                -122.1957252,37.4147288,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 44: Unincorporated / Horgan Ranch / Redwood Oaks</name>
+        <description><![CDATA[Area Number: 44<br>Area Group: Unincorporated SMC, Federal, & Others<br>description: Fire Station: 3, 4<br><br>FRS Radio Channel: [NOT AVAILABLE]<br><br>EAPs:<br>EAPs NEEDED<br><br>Emergency Cache:<br>Station 4<br>]]></description>
+        <styleUrl>#poly-558B2F-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>44.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value><![CDATA[Unincorporated SMC, Federal, & Others]]></value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 3, 4
+
+FRS Radio Channel: [NOT AVAILABLE]
+
+EAPs:
+EAPs NEEDED
+
+Emergency Cache:
+Station 4
+</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.2230535,37.4584801,0
+                -122.2237618,37.4578397,0
+                -122.2262134,37.4596026,0
+                -122.2270609,37.4581889,0
+                -122.2284503,37.4553486,0
+                -122.2289224,37.4541988,0
+                -122.2304513,37.4510942,0
+                -122.2315939,37.4487051,0
+                -122.224942,37.4439521,0
+                -122.2172172,37.4536963,0
+                -122.2173641,37.4538602,0
+                -122.2205452,37.4561725,0
+                -122.2204648,37.4562662,0
+                -122.2221224,37.4572882,0
+                -122.2217886,37.4576414,0
+                -122.2230535,37.4584801,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 45: Unincorporated / North Fair Oaks 
+</name>
+        <description><![CDATA[Area Number: 45<br>Area Group: Unincorporated SMC, Federal, & Others<br>description: Fire Station: 5<br><br>FRS Radio Channel: [NOT AVAILABLE]<br><br>EAPs:<br>EAPs NEEDED<br><br>Emergency Cache:<br> [NOT AVAILABLE]]]></description>
+        <styleUrl>#poly-558B2F-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>45.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value><![CDATA[Unincorporated SMC, Federal, & Others]]></value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 5
+
+FRS Radio Channel: [NOT AVAILABLE]
+
+EAPs:
+EAPs NEEDED
+
+Emergency Cache:
+ [NOT AVAILABLE]</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.1860614,37.4780836,0
+                -122.2051067,37.4768123,0
+                -122.2081939,37.4765654,0
+                -122.2111953,37.4765526,0
+                -122.2129199,37.4767059,0
+                -122.2144622,37.476974,0
+                -122.2174261,37.4776764,0
+                -122.2178713,37.4770868,0
+                -122.2152052,37.4753989,0
+                -122.2155378,37.4748725,0
+                -122.2159374,37.4750423,0
+                -122.2168521,37.4736496,0
+                -122.2173375,37.4732425,0
+                -122.2124853,37.4697053,0
+                -122.2063116,37.465305,0
+                -122.2035865,37.4682684,0
+                -122.2015566,37.4669375,0
+                -122.2003563,37.468366,0
+                -122.1999741,37.4687258,0
+                -122.199309,37.4695943,0
+                -122.1991802,37.4700967,0
+                -122.1995182,37.4701222,0
+                -122.1968145,37.47455,0
+                -122.1896395,37.4718003,0
+                -122.1867796,37.476768,0
+                -122.1860614,37.4780836,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Area 46: Veteran's Administration]]></name>
+        <description><![CDATA[Area Number: 46<br>Area Group: Unincorporated SMC, Federal, & Others<br>description: Fire Station: 1<br><br>FRS Radio Channel: 9<br><br>EAPs:<br>[NOT AVAILABLE]<br><br>Emergency Cache:<br>[NOT AVAILABLE]]]></description>
+        <styleUrl>#poly-558B2F-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>46.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value><![CDATA[Unincorporated SMC, Federal, & Others]]></value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 1
+
+FRS Radio Channel: 9
+
+EAPs:
+[NOT AVAILABLE]
+
+Emergency Cache:
+[NOT AVAILABLE]</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.1591984,37.4625035,0
+                -122.1577894,37.4638866,0
+                -122.1574246,37.4651299,0
+                -122.1569096,37.4660496,0
+                -122.155708,37.4672588,0
+                -122.1554505,37.4679571,0
+                -122.1552574,37.4687575,0
+                -122.156368,37.469426,0
+                -122.1571886,37.4694898,0
+                -122.1593558,37.4694558,0
+                -122.161657,37.470032,0
+                -122.164556,37.464123,0
+                -122.1591984,37.4625035,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 3: Linderwood</name>
+        <description><![CDATA[Area Number: 3<br>Area Group: Atherton<br>description: Fire Station: 1<br><br>FRS Radio Channel: 3<br><br>EAPs:<br>3A - 72 Manzanita Road<br>3B - on De Bell Dr. in easement of<br>11 Maple Leaf Way<br><br>Emergency Cache:<br>Holbrook Palmer Park]]></description>
+        <styleUrl>#poly-A52714-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>3.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Atherton</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 1
+
+FRS Radio Channel: 3
+
+EAPs:
+3A - 72 Manzanita Road
+3B - on De Bell Dr. in easement of
+11 Maple Leaf Way
+
+Emergency Cache:
+Holbrook Palmer Park</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.175684,37.4755964,0
+                -122.1765182,37.4758603,0
+                -122.177642,37.4735933,0
+                -122.1775588,37.4726141,0
+                -122.1767515,37.4715753,0
+                -122.1762043,37.4713731,0
+                -122.1762741,37.4707515,0
+                -122.1771163,37.4709175,0
+                -122.1774382,37.4697116,0
+                -122.1780074,37.4685461,0
+                -122.1787375,37.4668696,0
+                -122.1806847,37.4629821,0
+                -122.174032,37.4595245,0
+                -122.171593,37.4641617,0
+                -122.1699334,37.4676299,0
+                -122.1688746,37.4695824,0
+                -122.1678795,37.4717038,0
+                -122.1697378,37.4728324,0
+                -122.1740417,37.4750031,0
+                -122.1745356,37.4752104,0
+                -122.175684,37.4755964,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Area 2: Linderwood</name>
+        <description><![CDATA[Area Number: 2<br>Area Group: Atherton<br>description: Fire Station: 1<br><br>FRS Radio Channel: 2<br><br>EAPs:<br>2A - 1 Larch Drive<br>2B - 117 Heather Drive<br><br>Emergency Cache:<br>Holbrook Palmer Park<br>]]></description>
+        <styleUrl>#poly-A52714-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Area Number">
+            <value>2.0</value>
+          </Data>
+          <Data name="Area Group">
+            <value>Atherton</value>
+          </Data>
+          <Data name="description">
+            <value>Fire Station: 1
+
+FRS Radio Channel: 2
+
+EAPs:
+2A - 1 Larch Drive
+2B - 117 Heather Drive
+
+Emergency Cache:
+Holbrook Palmer Park
+</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -122.1809819,37.4765139,0
+                -122.1807512,37.4758137,0
+                -122.1807673,37.4752369,0
+                -122.1801503,37.4752241,0
+                -122.1809765,37.4738787,0
+                -122.1817959,37.4740171,0
+                -122.1819903,37.4735275,0
+                -122.1821244,37.4729038,0
+                -122.1824464,37.4723759,0
+                -122.182763,37.4724312,0
+                -122.1842516,37.4704685,0
+                -122.1858542,37.4680991,0
+                -122.1860225,37.468196,0
+                -122.1873869,37.4663471,0
+                -122.1816036,37.4634516,0
+                -122.1806847,37.4629821,0
+                -122.1787375,37.4668696,0
+                -122.1780074,37.4685461,0
+                -122.1774382,37.4697116,0
+                -122.1771163,37.4709175,0
+                -122.1762741,37.4707515,0
+                -122.1762043,37.4713731,0
+                -122.1767515,37.4715753,0
+                -122.1771029,37.4719925,0
+                -122.1775588,37.4726141,0
+                -122.177642,37.4735933,0
+                -122.1768292,37.475226,0
+                -122.1765182,37.4758603,0
+                -122.176833,37.4759543,0
+                -122.1779075,37.4761846,0
+                -122.1802898,37.4764603,0
+                -122.1809819,37.4765139,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
